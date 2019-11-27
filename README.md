@@ -34,5 +34,3 @@ run lambda
 make lambda-run
 
 ```
-
-aws lambda delete-layer-version --layer-name awscli --version-number 3
